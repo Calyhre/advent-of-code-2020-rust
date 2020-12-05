@@ -6,7 +6,8 @@
 | [Day 2: Password Philosophy](src/bin/day_02.rs) |       |  ★  |  ★  |   2ms |
 | [Day 3: Toboggan Trajectory](src/bin/day_03.rs) |       |  ★  |  ★  | 140µs |
 | [Day 4: Passport Processing](src/bin/day_04.rs) |       |  ★  |  ★  |   1ms |
-|                                                 | TOTAL |     |     |   4ms |
+| [Day 5: Binary Boarding](src/bin/day_05.rs)     |       |  ★  |  ★  | 330µs |
+|                                                 | TOTAL |     |     |   5ms |
 
 # How to run
 
