@@ -7,7 +7,8 @@
 | [Day 3: Toboggan Trajectory](src/bin/day_03.rs) |       |  ★  |  ★  | 140µs |
 | [Day 4: Passport Processing](src/bin/day_04.rs) |       |  ★  |  ★  |   1ms |
 | [Day 5: Binary Boarding](src/bin/day_05.rs)     |       |  ★  |  ★  | 330µs |
-|                                                 | TOTAL |     |     |   5ms |
+| [Day 6: Custom Customs](src/bin/day_06.rs)      |       |  ★  |  ★  |   1ms |
+|                                                 | TOTAL |     |     |   6ms |
 
 # How to run
 
