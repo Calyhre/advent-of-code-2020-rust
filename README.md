@@ -9,7 +9,8 @@
 | [Day 5: Binary Boarding](src/bin/day_05.rs)     |       |  ★  |  ★  | 330µs |
 | [Day 6: Custom Customs](src/bin/day_06.rs)      |       |  ★  |  ★  |   1ms |
 | [Day 7: Handy Haversacks](src/bin/day_07.rs)    |       |  ★  |  ★  |   1ms |
-|                                                 | TOTAL |     |     |   7ms |
+| [Day 8: Handheld Halting](src/bin/day_08.rs)    |       |  ★  |  ★  |   2ms |
+|                                                 | TOTAL |     |     |   9ms |
 
 # How to run
 
