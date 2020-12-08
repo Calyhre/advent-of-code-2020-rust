@@ -13,8 +13,6 @@ fn read_logs() -> String {
         }
         Err(_error) => panic!("Error opening file"),
     }
-    // Watch out for input file trailing new line!
-    content.pop();
     content
 }
 

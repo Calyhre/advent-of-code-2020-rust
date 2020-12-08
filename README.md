@@ -8,7 +8,8 @@
 | [Day 4: Passport Processing](src/bin/day_04.rs) |       |  ★  |  ★  |   1ms |
 | [Day 5: Binary Boarding](src/bin/day_05.rs)     |       |  ★  |  ★  | 330µs |
 | [Day 6: Custom Customs](src/bin/day_06.rs)      |       |  ★  |  ★  |   1ms |
-|                                                 | TOTAL |     |     |   6ms |
+| [Day 7: Handy Haversacks](src/bin/day_07.rs)    |       |  ★  |  ★  |   1ms |
+|                                                 | TOTAL |     |     |   7ms |
 
 # How to run
 
