@@ -10,7 +10,8 @@
 | [Day 6: Custom Customs](src/bin/day_06.rs)      |       |  ★  |  ★  |   1ms |
 | [Day 7: Handy Haversacks](src/bin/day_07.rs)    |       |  ★  |  ★  |   1ms |
 | [Day 8: Handheld Halting](src/bin/day_08.rs)    |       |  ★  |  ★  |   2ms |
-|                                                 | TOTAL |     |     |   9ms |
+| [Day 9: Encoding Error](src/bin/day_09.rs)      |       |  ★  |  ★  | 400µs |
+|                                                 | TOTAL |     |     |  10ms |
 
 # How to run
 
