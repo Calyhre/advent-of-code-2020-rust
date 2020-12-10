@@ -7,6 +7,7 @@ mod day_06;
 mod day_07;
 mod day_08;
 mod day_09;
+mod day_10;
 
 use std::time::Instant;
 
@@ -21,5 +22,6 @@ fn main() {
     day_07::main();
     day_08::main();
     day_09::main();
+    day_10::main();
     println!("Total time: {}ms", now.elapsed().as_millis());
 }

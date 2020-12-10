@@ -11,6 +11,7 @@
 | [Day 7: Handy Haversacks](src/bin/day_07.rs)    |       |  ★  |  ★  |   1ms |
 | [Day 8: Handheld Halting](src/bin/day_08.rs)    |       |  ★  |  ★  |   2ms |
 | [Day 9: Encoding Error](src/bin/day_09.rs)      |       |  ★  |  ★  | 400µs |
+| [Day 10: Adapter Array](src/bin/day_10.rs)      |       |  ★  |  ★  |  20µs |
 |                                                 | TOTAL |     |     |  10ms |
 
 # How to run

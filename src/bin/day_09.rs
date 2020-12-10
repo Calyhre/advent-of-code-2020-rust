@@ -1,9 +1,8 @@
-use core::panic;
-use std::{io::BufReader, time::Instant};
+use std::time::Instant;
 
 use std::convert::TryInto;
 use std::fs::File;
-use std::io::prelude::*;
+use std::io::{prelude::*, BufReader};
 
 fn read_numbers() -> [u64; 1000] {
     let file = File::open("inputs/day_09.txt").unwrap();
