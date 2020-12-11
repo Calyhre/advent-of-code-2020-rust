@@ -12,7 +12,8 @@
 | [Day 8: Handheld Halting](src/bin/day_08.rs)    |       |  ★  |  ★  |   2ms |
 | [Day 9: Encoding Error](src/bin/day_09.rs)      |       |  ★  |  ★  | 400µs |
 | [Day 10: Adapter Array](src/bin/day_10.rs)      |       |  ★  |  ★  |  20µs |
-|                                                 | TOTAL |     |     |  10ms |
+| [Day 11: Seating System](src/bin/day_11.rs)     |       |  ★  |  ★  |  70ms |
+|                                                 | TOTAL |     |     |  80ms |
 
 # How to run
 
