@@ -2,18 +2,19 @@
 
 | Solution                                        |       | #1  | #2  |  Time |
 | ----------------------------------------------- | ----: | :-: | :-: | ----: |
-| [Day 1: Report Repair](src/bin/day_01.rs)       |       |  ★  |  ★  |  70µs |
+| [Day 1: Report Repair](src/bin/day_01.rs)       |       |  ★  |  ★  |  60µs |
 | [Day 2: Password Philosophy](src/bin/day_02.rs) |       |  ★  |  ★  |   2ms |
-| [Day 3: Toboggan Trajectory](src/bin/day_03.rs) |       |  ★  |  ★  | 140µs |
+| [Day 3: Toboggan Trajectory](src/bin/day_03.rs) |       |  ★  |  ★  | 120µs |
 | [Day 4: Passport Processing](src/bin/day_04.rs) |       |  ★  |  ★  |   1ms |
-| [Day 5: Binary Boarding](src/bin/day_05.rs)     |       |  ★  |  ★  | 330µs |
+| [Day 5: Binary Boarding](src/bin/day_05.rs)     |       |  ★  |  ★  | 400µs |
 | [Day 6: Custom Customs](src/bin/day_06.rs)      |       |  ★  |  ★  |   1ms |
-| [Day 7: Handy Haversacks](src/bin/day_07.rs)    |       |  ★  |  ★  |   1ms |
+| [Day 7: Handy Haversacks](src/bin/day_07.rs)    |       |  ★  |  ★  |   2ms |
 | [Day 8: Handheld Halting](src/bin/day_08.rs)    |       |  ★  |  ★  |   2ms |
 | [Day 9: Encoding Error](src/bin/day_09.rs)      |       |  ★  |  ★  | 400µs |
 | [Day 10: Adapter Array](src/bin/day_10.rs)      |       |  ★  |  ★  |  20µs |
 | [Day 11: Seating System](src/bin/day_11.rs)     |       |  ★  |  ★  |  70ms |
-|                                                 | TOTAL |     |     |  80ms |
+| [Day 12: Rain Risk](src/bin/day_12.rs)          |       |  ★  |  ★  | 300µs |
+|                                                 | TOTAL |     |     |  85ms |
 
 # How to run
 
