@@ -14,7 +14,10 @@
 | [Day 10: Adapter Array](src/bin/day_10.rs)      |       |  ★  |  ★  |  20µs |
 | [Day 11: Seating System](src/bin/day_11.rs)     |       |  ★  |  ★  |  70ms |
 | [Day 12: Rain Risk](src/bin/day_12.rs)          |       |  ★  |  ★  | 300µs |
+| [Day 13: Shuttle Search﹡](src/bin/day_13.rs)   |       |  ★  |  ☆  |  10µs |
 |                                                 | TOTAL |     |     |  85ms |
+
+<small>﹡ I had to look at some hints for part 2</small>
 
 # How to run
 
