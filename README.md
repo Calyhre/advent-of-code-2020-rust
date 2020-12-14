@@ -15,7 +15,8 @@
 | [Day 11: Seating System](src/bin/day_11.rs)     |       |  ★  |  ★  |  70ms |
 | [Day 12: Rain Risk](src/bin/day_12.rs)          |       |  ★  |  ★  | 300µs |
 | [Day 13: Shuttle Search﹡](src/bin/day_13.rs)   |       |  ★  |  ☆  |  10µs |
-|                                                 | TOTAL |     |     |  85ms |
+| [Day 14: Docking Data](src/bin/day_14.rs)       |       |  ★  |  ★  |   7ms |
+|                                                 | TOTAL |     |     |  92ms |
 
 <small>﹡ I had to look at some hints for part 2</small>
 
