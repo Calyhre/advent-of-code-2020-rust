@@ -17,7 +17,8 @@
 | [Day 13: Shuttle Search﹡](src/bin/day_13.rs)        |       |  ★  |  ☆  |  10µs |
 | [Day 14: Docking Data](src/bin/day_14.rs)            |       |  ★  |  ★  |   7ms |
 | [Day 15: Rambunctious Recitation](src/bin/day_15.rs) |       |  ★  |  ★  | 830ms |
-|                                                      | TOTAL |     |     | 960ms |
+| [Day 16: Ticket Translation](src/bin/day_16.rs)      |       |  ★  |  ★  |   1ms |
+|                                                      | TOTAL |     |     |   >1s |
 
 <small>﹡ I had to look at some hints for part 2</small>
 

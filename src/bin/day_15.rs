@@ -34,32 +34,3 @@ pub fn main() {
     println!("  Part two: {}", part_two(&INPUT));
     println!("  Time: {}ms", now.elapsed().as_millis());
 }
-
-#[cfg(test)]
-mod tests {
-    use crate::part_one;
-    use crate::part_two;
-
-    // Note this useful idiom: importing names from outer (for mod tests) scope.
-    #[test]
-    fn test_part_one() {
-        assert_eq!(part_one(&[0, 3, 6], 2020), 436);
-        assert_eq!(part_one(&[1, 3, 2], 2020), 1);
-        assert_eq!(part_one(&[2, 1, 3], 2020), 10);
-        assert_eq!(part_one(&[1, 2, 3], 2020), 27);
-        assert_eq!(part_one(&[2, 3, 1], 2020), 78);
-        assert_eq!(part_one(&[3, 2, 1], 2020), 438);
-        assert_eq!(part_one(&[3, 1, 2], 2020), 1836);
-    }
-    // Note this useful idiom: importing names from outer (for mod tests) scope.
-    #[test]
-    fn test_part_two() {
-        assert_eq!(part_two(&[0, 3, 6]), 175594);
-        assert_eq!(part_two(&[1, 3, 2]), 2578);
-        assert_eq!(part_two(&[2, 1, 3]), 3544142);
-        assert_eq!(part_two(&[1, 2, 3]), 261214);
-        assert_eq!(part_two(&[2, 3, 1]), 6895259);
-        assert_eq!(part_two(&[3, 2, 1]), 18);
-        assert_eq!(part_two(&[3, 1, 2]), 362);
-    }
-}
