@@ -1,0 +1,37 @@
+use std::str::FromStr;
+
+grammar;
+
+pub PartOne: i64 = {
+    <l:PartOne> "+" <r:PartOneTerm> => l + r,
+    <l:PartOne> "-" <r:PartOneTerm> => l - r,
+    <l:PartOne> "*" <r:PartOneTerm> => l * r,
+    <l:PartOne> "/" <r:PartOneTerm> => l / r,
+    PartOneTerm,
+};
+
+PartOneTerm: i64 = {
+    Num,
+    "(" <PartOne> ")",
+};
+
+pub PartTwo: i64 = {
+    <l:PartTwo> "*" <r:PartTwoPriorityOperator> => l * r,
+    <l:PartTwo> "/" <r:PartTwoPriorityOperator> => l / r,
+    PartTwoPriorityOperator,
+};
+
+PartTwoPriorityOperator: i64 = {
+    <l:PartTwoPriorityOperator> "+" <r:PartTwoTerm> => l + r,
+    <l:PartTwoPriorityOperator> "-" <r:PartTwoTerm> => l - r,
+    PartTwoTerm,
+};
+
+PartTwoTerm: i64 = {
+    Num,
+    "(" <PartTwo> ")",
+};
+
+Num: i64 = {
+    r"[0-9]+" => i64::from_str(<>).unwrap(),
+};

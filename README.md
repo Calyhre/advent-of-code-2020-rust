@@ -19,7 +19,8 @@
 | [Day 15: Rambunctious Recitation](src/bin/day_15.rs) |       |  ★  |  ★  | 830ms |
 | [Day 16: Ticket Translation](src/bin/day_16.rs)      |       |  ★  |  ★  |   1ms |
 | [Day 17: Conway Cubes](src/bin/day_17.rs)            |       |  ★  |  ★  |  14ms |
-|                                                      | TOTAL |     |     |    1s |
+| [Day 18: Operation Order](src/bin/day_18.rs)         |       |  ★  |  ★  | 220ms |
+|                                                      | TOTAL |     |     |  1.2s |
 
 <small>﹡ I had to look at some hints for part 2</small>
 

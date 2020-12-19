@@ -1,3 +1,6 @@
+#[macro_use]
+extern crate lalrpop_util;
+
 mod day_01;
 mod day_02;
 mod day_03;
@@ -15,6 +18,7 @@ mod day_14;
 mod day_15;
 mod day_16;
 mod day_17;
+mod day_18;
 
 use std::time::Instant;
 
@@ -37,5 +41,6 @@ fn main() {
     day_15::main();
     day_16::main();
     day_17::main();
+    day_18::main();
     println!("Total time: {}ms", now.elapsed().as_millis());
 }
