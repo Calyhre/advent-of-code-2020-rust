@@ -20,6 +20,7 @@
 | [Day 16: Ticket Translation](src/bin/day_16.rs)      |       |  ★  |  ★  |   1ms |
 | [Day 17: Conway Cubes](src/bin/day_17.rs)            |       |  ★  |  ★  |  14ms |
 | [Day 18: Operation Order](src/bin/day_18.rs)         |       |  ★  |  ★  | 220ms |
+| [Day 19: Monster Messages](src/bin/day_19.rs)        |       |  ★  |  ★  |  20ms |
 |                                                      | TOTAL |     |     |  1.2s |
 
 <small>﹡ I had to look at some hints for part 2</small>

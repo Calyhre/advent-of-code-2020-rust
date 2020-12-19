@@ -11,5 +11,6 @@ lalrpop = { version = "0.19.0", features = ["lexer"] }
 
 [dependencies]
 lalrpop-util = "0.19.0"
+onig = "6"
 petgraph = "0.5.1"
 regex = "1"
