@@ -21,9 +21,11 @@
 | [Day 17: Conway Cubes](src/bin/day_17.rs)            |       |  ★  |  ★  |  14ms |
 | [Day 18: Operation Order](src/bin/day_18.rs)         |       |  ★  |  ★  | 220ms |
 | [Day 19: Monster Messages](src/bin/day_19.rs)        |       |  ★  |  ★  |  20ms |
+| [Day 20: Jurassic Jigsaw\*\*](src/bin/day_20.rs)     |       |  ★  |     |   0ms |
 |                                                      | TOTAL |     |     |  1.2s |
 
 <small>﹡ I had to look at some hints for part 2</small>
+<small>\*\* I gave up at that point, took me more than a day to complete it</small>
 
 # How to run
 
